@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{283EC592-E6FB-465D-87E6-C0D963C9ECA8}"
+	ProjectSection(SolutionItems) = preProject
+		Anasayfa.css = Anasayfa.css
+		Anasayfa.html = Anasayfa.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25BC8DF9-44CB-47C9-8178-E0D3D9C2D141}
+	EndGlobalSection
+EndGlobal
